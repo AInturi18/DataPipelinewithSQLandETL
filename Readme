@@ -1,8 +1,7 @@
 Project Overview:
 The goal of this project is to build a simple ETL (Extract, Transform, Load) pipeline. You'll work with a publicly available dataset (you can find datasets on platforms like Kaggle) and perform the following tasks:
-
 Extract data from a raw data source.
-
 Transform it (e.g., clean, filter, and aggregate data).
-
 Load the transformed data into a SQL-based database.
+
+Download PostgreSQL
